@@ -1,0 +1,7 @@
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\bin\Debug\Kalkulacka(Kulchitskiy Andrey).exe.config
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\bin\Debug\Kalkulacka(Kulchitskiy Andrey).exe
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\bin\Debug\Kalkulacka(Kulchitskiy Andrey).pdb
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\obj\Debug\Kalkulacka(Kulchitskiy Andrey).csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\obj\Debug\Kalkulacka(Kulchitskiy Andrey).csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\obj\Debug\Kalkulacka(Kulchitskiy Andrey).exe
+C:\Users\Professional\source\repos\Kalkulacka(Kulchitskiy Andrey)\Kalkulacka(Kulchitskiy Andrey)\obj\Debug\Kalkulacka(Kulchitskiy Andrey).pdb
